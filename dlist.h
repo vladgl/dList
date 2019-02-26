@@ -1,5 +1,7 @@
 #pragma once
-#include "headers.h"
+#include<stdlib.h>
+#include<stdio.h>
+#include<ctype.h>
 #include<string.h>
 typedef struct Node {
 	char str[50];
